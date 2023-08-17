@@ -1,4 +1,4 @@
-# Nword
+# Word list generator
 A graphic and efficient password generator
 
 # About
